@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TesteConta",
+            "request": "launch",
+            "mainClass": "br.com.caelum.financas.teste.TesteConta",
+            "projectName": "financas"
+        }
+    ]
+}
