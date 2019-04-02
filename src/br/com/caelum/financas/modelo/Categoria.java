@@ -18,6 +18,19 @@ public class Categoria {
 	public Categoria() {
 		
 	}
+	
+	public Integer getId() {
+		return Id;
+	}
+	public void setId(Integer id) {
+		Id = id;
+	}
+	public String getNome() {
+		return nome;
+	}
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
 	public Categoria(String nome) {
 		this.nome = nome;
 	}
